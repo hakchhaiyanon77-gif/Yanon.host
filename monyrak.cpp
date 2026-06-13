@@ -8,6 +8,7 @@ void showStudentInfo(){
     cout << "Major        : " << major << endl;
 }
 int main(){
-    
+    cout << "===Student Information===" << endl;
+    showStudentInfo();
     return 0;
 }
